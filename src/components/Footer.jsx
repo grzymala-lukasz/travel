@@ -28,6 +28,7 @@ const Footer = () => {
                         <li>Careers</li>
                         <li>Newsrooms</li>
                         <li>Advertising</li>
+						<li>+1</li>
                     </ul>
                     <ul className='text-right lg:flex'>
                         <li>Home</li>
