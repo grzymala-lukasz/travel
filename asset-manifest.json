@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/travel/static/css/main.950218e3.css",
-    "main.js": "/travel/static/js/main.42a3bb45.js",
+    "main.js": "/travel/static/js/main.a8aec066.js",
     "static/media/beachVid.mp4": "/travel/static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
     "static/media/keywest.jpg": "/travel/static/media/keywest.1e30514942c6f50bea09.jpg",
     "static/media/maldives2.jpg": "/travel/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
@@ -11,10 +11,10 @@
     "static/media/maldives3.jpg": "/travel/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
     "index.html": "/travel/index.html",
     "main.950218e3.css.map": "/travel/static/css/main.950218e3.css.map",
-    "main.42a3bb45.js.map": "/travel/static/js/main.42a3bb45.js.map"
+    "main.a8aec066.js.map": "/travel/static/js/main.a8aec066.js.map"
   },
   "entrypoints": [
     "static/css/main.950218e3.css",
-    "static/js/main.42a3bb45.js"
+    "static/js/main.a8aec066.js"
   ]
 }
